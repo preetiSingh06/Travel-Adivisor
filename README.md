@@ -1,5 +1,21 @@
 # Travel_Advisor
+
 -Individual Project
+
+#Tech Stuff Used
+HTML, CSS, JS, ReactJS, API keys, NodeJS.
+
+#Run this web application on your local device
+
+-Install NodeJS
+
+-Clone the repository
+
+-In terminal(for installing) 
+$ npm install
+
+-In terminal(for running)
+$ npx create-react-app
 
 ##Overview of project
 
