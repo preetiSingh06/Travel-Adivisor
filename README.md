@@ -15,6 +15,13 @@ RapidAPI Travel Advisor API Open Weather Map API
 
 ###Inside of Project
 
-In default this API based application will show your location after allowing to fetch the location. 
-LHS there are option of 
+In default this API based application will show your location's (after allowing to fetch the location) Type and rating in specific the list of types are: Restaurants, Hotels and attraction and list of ratings are above 3.0, above4.0, above4.5.
+
+####User Friendly
+
+You can choose any place city country and the list of types and ratings according to your preference.
+The list of Hotels, Restaurants and Attraction displayed in LHS will give the name, ratings, review, price, ranking, awards, details (address and phone no.) and two buttons trip advisor and website. These buttons will take you to those specific website and travel advisor if having, which shows the detail including the weather condition.
+
+
+
 
