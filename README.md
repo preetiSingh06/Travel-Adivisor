@@ -18,7 +18,7 @@ fetching data from unlimited sources using RapidAPI
 
 RapidAPI Travel Advisor API Open Weather Map API
 
-![Screenshot (135)](https://user-images.githubusercontent.com/96286863/152420453-0e097da8-6931-468e-ac04-78ee2ce842ed.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/96286863/152421262-4b4ca99e-c72a-43cd-af5e-8b931010ee2f.png)
 
 
 *************************************************************************************************************************************************************************************************
