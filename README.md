@@ -14,6 +14,8 @@ RapidAPI Travel Advisor API Open Weather Map API
 ![travel](https://user-images.githubusercontent.com/96286863/152276266-9b8c88ba-e547-4898-940b-68f144113797.png)
 
 
+*********************************************************************************************************************************************************************************
+
 
 ###Inside of Project
 
@@ -30,6 +32,8 @@ RapidAPI Travel Advisor API Open Weather Map API
 ![Screenshot (138)](https://user-images.githubusercontent.com/96286863/152279553-319ba47c-4200-4957-b5c2-986105d85bec.png)
 
 
+*********************************************************************************************************************************************************************************
+
 
 ####User Friendly
 
@@ -40,9 +44,17 @@ The list of Hotels, Restaurants and Attraction displayed in LHS will show the na
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/96286863/152280247-89316eed-24b9-40c6-bc39-c33b83056732.png)
 
+.................................................................................................................................................................................
+
 -Selected Travel Advisor
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/96286863/152280268-cbf53d65-bcd2-44c6-9ed4-1c9e212e56a3.png)
+
+![Screenshot (144)](https://user-images.githubusercontent.com/96286863/152280707-5011a368-ae82-4f8f-bd8b-118fc3487a25.png)
+
+![Screenshot (145)](https://user-images.githubusercontent.com/96286863/152280782-c1fe2617-546b-4a2b-a388-9c5c82ee740b.png)
+
+.................................................................................................................................................................................
 
 -Selected its Website
 
